@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-sap
+uim-sap.so
+uim-sap.dylib
+uim-sap.dll
+uim-sap.a
+uim-sap.lib
+uim-sap-test-*
+*.exe
+*.o
+*.obj
+*.lst
