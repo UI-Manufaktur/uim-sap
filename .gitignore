@@ -1,15 +1,24 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+
+# DUB
 .dub
 docs.json
 __dummy.html
 docs/
-/uim-sap
-uim-sap.so
-uim-sap.dylib
-uim-sap.dll
-uim-sap.a
-uim-sap.lib
-uim-sap-test-*
-*.exe
-*.o
-*.obj
+
+# Code coverage
 *.lst
